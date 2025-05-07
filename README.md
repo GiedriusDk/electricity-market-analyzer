@@ -87,7 +87,20 @@ Users don’t need to register — they can explore all features freely via a cl
  - tests/ # Automated test scripts
  - main.sh # Server setup script
 
+---
+
+
 ## 📄 Project Documentation
 
- - Full PDF report (in Lithuanian):
- - Electricity-Market-Analyzer-Doc.pdf
+ Full PDF documentation (in Lithuanian):  
+📄 [View the project (PDF)](./Electricity-Market-Analyzer-Doc.pdf)
+
+---
+
+## Team:
+- Giedrius Dauknys - Team Leader, Designer
+- Airidas Gabinaitis - Programmer, Data Analyst
+- Олександр Ротаєнко - Tester, Programmer
+- Evelina Matelyte - Designer
+
+
