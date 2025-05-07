@@ -1,0 +1,61 @@
+/* styles.css */
+body {
+    font-family: 'Open Sans', sans-serif; /* Updated font */
+    text-align: center;
+    background-color: #f4f4f4; /* Lighter background color */
+    margin: 20px; /* Increased margin for more spacing */
+    padding: 0;
+    color: #000; /* Dark text color for better readability */
+}
+
+/* Header styles */
+header {
+    background-color: #44c04a; /* Green header background */
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 15px; /* Increased border-radius for a smoother look */
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 32px; /* Larger font size for the header */
+    color: #fff; /* White text color for better contrast */
+    margin-top: 15px;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+/* navigation links */
+nav a {
+    text-decoration: none;
+    color: #000; /* Slightly darker text color */
+    margin: 0 15px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #559858; /* Green hover color */
+}
+
+nav a.selected {
+    color: #ffffff;
+}
+
+.content-container {
+    background-color: #fff; /* White background for content container */
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 30px auto; /* Increased margin for more separation */
+}
+
+.weather {
+    margin-top: 30px;
+    padding: 15px;
+    border: 2px solid #4CAF50; /* Green border for contrast */
+    background-color: #f7f7f7;
+    font-size: 20px; /* Increased font size for better visibility */
+    color: #333;
+}
